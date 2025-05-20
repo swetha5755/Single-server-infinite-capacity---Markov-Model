@@ -1,5 +1,5 @@
 # Name: Swetha S
-# Reg no: 21224040344
+# Reg no: 212224040344
 # Dept: CSE
 
 # Single server with infinite capacity (M/M/1):(oo/FIFO)
